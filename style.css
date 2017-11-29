@@ -1,0 +1,28 @@
+*{
+  margin: 0; */
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a{
+  color: #F79AD3;
+}
+
+h1 , h2 a{
+  font-family: sans-serif;
+}
+
+a:hover{
+  color: #B37BA4
+}
+
+#square{
+  width: 40%;
+    height: auto;
+  display: block;
+  margin: 30px auto;
+  border-radius: 70px;
+  box-shadow: 0px 5px 5px pink;
+}
